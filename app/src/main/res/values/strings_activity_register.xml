@@ -1,0 +1,18 @@
+<resources>
+    <string name="title_activity_register">Register</string>
+
+    <!-- Strings related to register -->
+    <string name="prompt_email2">Username</string>
+    <string name="prompt_password2">Password</string>
+    <string name="action_register">Register</string>
+    <string name="action_register_short">Register</string>
+
+    <string name="error_invalid_user2">This username is invalid</string>
+    <string name="error_user_exists">This username already exists</string>
+    <string name="error_invalid_password2">This password is too short</string>
+    <string name="error_field_required2">This field is required</string>
+    <string name="error_registererror">An error occurred while registering.</string>
+    <string name="action_registerbutton">Register</string>
+    <string name="registerbutton">Register</string>
+    <string name="error_invalid">Invalid Entry</string>
+</resources>
